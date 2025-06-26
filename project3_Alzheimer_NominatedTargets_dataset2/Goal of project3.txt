@@ -1,0 +1,2 @@
+The accelerating medicines partnership in Alzheimer's Disease (AMP-AD) consortium has nominated hundreds of targets.
+this project is going to check the expression status of these nominated genes from independent sc-RNA seq dataset derived from public dataset.
